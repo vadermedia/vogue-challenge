@@ -3,7 +3,7 @@
 # Vogue Challenge
 
 ## Description
-A collection of #VogueChallenge images by Vader Media.
+A collection of #VOGUECHALLENGE images by Vader Media.
 
 ***
 
