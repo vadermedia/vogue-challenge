@@ -1,8 +1,6 @@
 ![alt text][logo]
 
 # Vogue Challenge
-
-## Description
 A collection of #VOGUECHALLENGE images by Vader Media.
 
 ***
